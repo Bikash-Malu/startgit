@@ -7,7 +7,7 @@
 <h1 align="center" marginTop="40px">🧰 Languages and Tools:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,spring,mysql,react,nextjs,nodejs,expressjs,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,spring,mysql,react,nextjs,nodejs,expressjs,bootstrap,tailwind,vscode,mongodb,netbeans" />
   </a>
 </p>
 <!--
